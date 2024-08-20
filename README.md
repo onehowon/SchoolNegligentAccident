@@ -1,1 +1,10 @@
-# SchoolNegligentAccident
+# 학교 안전사고 데이터 시각화
+![1](https://github.com/user-attachments/assets/5d8583c1-c5c5-4c8f-a2c0-4d28118715d5)
+![2](https://github.com/user-attachments/assets/f4334653-c9eb-477d-bc64-c0f4105e764f)
+![3](https://github.com/user-attachments/assets/a1284150-98f5-4a01-88ba-57236be692f6)
+![4](https://github.com/user-attachments/assets/660aacb4-220a-48be-9e2e-e8846370751e)
+![5](https://github.com/user-attachments/assets/73d13779-299b-4600-8e2b-a5cc81ff3981)
+![6](https://github.com/user-attachments/assets/70df1d44-5425-450a-8533-0007dc81ead4)
+![7](https://github.com/user-attachments/assets/07e83fe2-8f68-416c-8cdb-4353f9aea558)
+![8](https://github.com/user-attachments/assets/0d01feef-2e98-46f8-a192-a0eccc1a573e)
+![9](https://github.com/user-attachments/assets/da2bea34-091a-468f-a8c7-dbf0d2920e4a)
